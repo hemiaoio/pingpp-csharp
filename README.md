@@ -1,14 +1,23 @@
 # Ping++ CSharp SDK 
 
 ## 简介
+
+    此版本基于官方SDK克隆而来,只是简单的把WebRequest更改成了HttpClient. 
+    参照官方Demo做了个支付请求的Demo并测试.
+
+    其他功能的并未测试.
+
+    欢迎使用issues提bug,或者提交合并请求.
 ## 版本要求
-至少要求 .NET 3.5 以上，建议 .NET 4.0 以上。
+至少要求 .net core 1.1
 
 ## 注意
-- namespace 由 pingpp 改为 Pingpp
-- 所有方法名更改，首字母大写
 
 ## 安装
+
+```powershell
+Install-Package PingPlusPlus.AspNetCore
+```
 
 ## 接入方法
 ### 初始化

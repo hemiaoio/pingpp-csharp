@@ -2,12 +2,12 @@
 
 ## 简介
 
-    此版本基于官方SDK克隆而来,只是简单的把WebRequest更改成了HttpClient. 
-    参照官方Demo做了个支付请求的Demo并测试.
+此版本基于官方SDK克隆而来,只是简单的把WebRequest更改成了HttpClient. 
+参照官方Demo做了个支付请求的Demo并测试.
 
-    其他功能的并未测试.
+其他功能的并未测试.
 
-    欢迎使用issues提bug,或者提交合并请求.
+欢迎使用issues提bug,或者提交合并请求.
 ## 版本要求
 至少要求 .net core 1.1
 
